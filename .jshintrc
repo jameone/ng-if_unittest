@@ -1,0 +1,21 @@
+{
+  "esversion": 6,
+  "node": true,
+  "globalstrict": true,
+  "globals": {
+    "angular": false,
+    "module": false,
+    "inject": false,
+
+    "jasmine": false,
+    "describe": false,
+    "beforeEach": false,
+    "afterEach": false,
+    "it": false,
+    "expect": false,
+
+    "browser": false,
+    "element": false,
+    "by": false
+  }
+}
